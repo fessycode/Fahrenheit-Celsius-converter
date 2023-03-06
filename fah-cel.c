@@ -12,7 +12,7 @@ int main() {
     }
     else
     {
-        printf("Only number greater than zero can be converted\n");
+        printf("Only number greater than zero(0) can be converted\n");
     }
 
     return 0;
