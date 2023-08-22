@@ -1,3 +1,3 @@
 # Fahrenheit-Celsius Converter
 
-A program that convert Fahrenheit to celsius
+A program that convert Fahrenheit to celsius.
